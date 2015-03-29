@@ -1,7 +1,7 @@
 {
   "name": "politics-second-arrow-gitbook",
   "version": "0.0.1",
-  "description": "社民黨政綱第二箭",
+  "description": "社民黨政見第二箭：全民年金改革",
   "private": true,
   "devDependencies": {
     "gitbook": "^1.5.0",
